@@ -1,0 +1,51 @@
+HERE IS MY RESUME:->
+
+                Pushplata Kaithwar
+ 8840236082 # pushplata2462@gmail.com ï linkedin § github
+
+Education:
+Rajkiya Engineering College Sonbhadra Batch: 2024
+Electronics Engineering CGPA : 7.45
+INTERMEDIATE Batch: 2019 to 2020
+Jawahar Navodaya Vidyalaya , Khairabad Sitapur UP percentage: 86.8
+MATRICULATION Batch: 2017 to 2018
+Jawahar Navodaya Vidyalaya , Khairabad Sitapur UP percentage:86.4
+
+Experience:
+Oasis infobyte June 2023 – July 2023
+Web Development Intern
+• Developed a To-Do List using HTML, CSS and JavaScript
+• Simple Calculator using HTML, CSS and JavaScript
+• Tribute-Page using HTML, CSS and JavaScript
+
+Personal Projects:
+Student Data Management | C++
+• GitHub Link: https://github.com/Apushplata/Studentdatamanagement
+• Student Management System is based on the concept of managing student information .
+• Allow users to input, modify, and delete student records.
+2048 Game | HTML CSS and JavaScript
+• GitHub Link: https://github.com/Apushplata/2048game
+• When the game starts, two random tiles with values of 2 or 4 appear on the grid.
+• Players use arrow keys to move tiles. When tiles move in a direction, they slide as far as possible in that direction until they
+hit another tile or the edge of the grid.
+
+Technical Skills:
+Languages: C++, JavaScript
+Frameworks/Libraries: React
+Developer Tools: VS Code, GitHub
+Web Technologies: HTML, CSS
+Databases: MySQL
+Technical Concepts: Data Structures and Algorithms, OOPS, DBMS
+
+Position of Responsibility:
+Educator in Umeed:->
+Rajkiya Engineering College Sonbhadra
+• The Umeed is a noble educational initiative dedicated to making a difference in the lives of underprivileged children.
+• It offers free classes and educational support to children from economically disadvantaged backgrounds.
+• The primary goal of the Umeed Institute is to provide these children with access to quality education, empowering
+them to break the cycle of poverty and build a brighter future
+
+Achievements:
+• Certificate of Participation in Codekaze Round-1 issued by Coding Ninjas
+• TCS NQT Qualified
+• Tech-Fest participation Certificate issued by Council of Science and Technology U.P.
